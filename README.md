@@ -10,6 +10,9 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinsoul75&count_bg=%23FDABD3&title_bg=%23181717&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
+[![Jinsoul's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsoul75)](https://github.com/jinsoul75/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsoul75)](https://github.com/jinsoul75/github-readme-stats)
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 <!--
