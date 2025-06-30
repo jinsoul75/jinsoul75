@@ -3,6 +3,8 @@
 #### 👩🏻‍💻 JavaScript, TypeScript, React, Redux, etc
 #### 🏄‍♀️ Travel & Blogging
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/jinsoul75?theme=light&font=Roboto%20Mono)
+
 <br />
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wlsthf75@gmail.com)](mailto:wlsthf75@gmail.com)
